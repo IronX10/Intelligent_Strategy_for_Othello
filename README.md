@@ -143,7 +143,4 @@ It’s a compact base for exploring search algorithms, heuristics, and performan
 
 ---
 
-If you want, I can:
-- add an **alpha-beta** implementation and include exact code diffs, or  
-- provide a **positional weight matrix** and show how it changes `boardScoreFor`.  
-Which improvement would you like next?
+
